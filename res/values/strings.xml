@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Strange Clock</string>
+<string name="widget_name_handinhand">Hand in Hand Clock</string>
+<string name="widget_name_gear">Gear Clock</string>
+<string name="widget_name_fibonacci">Fibonacci Clock</string>
+</resources>
